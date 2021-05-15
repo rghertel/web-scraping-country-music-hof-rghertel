@@ -1,3 +1,5 @@
+LINK TO MY VISUAL: https://app.powerbi.com/groups/me/reports/2eb65efd-97c8-48fc-856b-547205699635/ReportSection
+
 ## Web Scraping the Country Music Hall of Fame
 
 In this exercise, your objective is to use BeautifulSoup in order to obtain a dataset of all Country Music Hall of Fame inductees. This information is available at https://countrymusichalloffame.org/hall-of-fame/members/, but you will take the contents of this website and convert it into a pandas DataFrame.
